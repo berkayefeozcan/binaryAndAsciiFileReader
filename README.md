@@ -5,8 +5,7 @@ Bu depo Kocaeli Universitesin Bilgisayar Mühendisliği  Programlama Lab1  dersi
 Program ,temel olarak belirli bir formatta olması gereken ascii ve binary tipteki dosyalardan veri çekip işlem yapmaktadır. Ayrıca dosya formatında hata var ise kullanııya hata mesajı vermektedir.
 
 ## Geliştiriciler 
-Berkay Efe ÖZCAN 
-Cumali Toprak 
+Berkay Efe ÖZCAN , Cumali TOPRAK 
 
 ## Abstract 
 This repository include 1rd  project of 'Programming Lab-1' at Computer Engineering  Kocaeli University
@@ -16,5 +15,4 @@ Nowadays, it is very important to read data    from any data storage media in IT
 This program basically reads binary and ascii data from files . After reading  data  program processes readable data .   
 
 ## Developers 
-Berkay Efe ÖZCAN 
-Cumali Toprak 
+Berkay Efe ÖZCAN , Cumali TOPRAK
